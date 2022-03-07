@@ -50,10 +50,6 @@ android {
     }
 }
 
-hilt {
-    enableTransformForLocalTests = true
-}
-
 dependencies {
 
     implementation 'androidx.core:core-ktx:1.6.0'
